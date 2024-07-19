@@ -1456,4 +1456,20 @@ Guarda el archivo `UserController.php` después de haber copiado el código prop
 
 Ahora tendrás tu controlador Laravel creado y el código bien organizado en tu aplicación. Asegúrate de revisar y ajustar las configuraciones y nombres de modelos según la estructura de tu proyecto.
 
+Update de una tabla añadiendo/sumando
+
+```
+ DB::table('db_user_wallet_virtuals')
+
+                                ->where('id', '=', $user_wallet->id)
+
+                                ->update([
+
+                                    'virtual_amount' => DB::raw("virtual_amount + {$reward->points}"),
+
+                                    'updated_at' => now()
+
+                                ]);
+```
+
 [[PHP]]  [[Route-Api]]  

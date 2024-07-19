@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "88ef655bc06e14bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7179b9c12cb5c37b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a726a7d4649e584e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad0fda841fc688b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "43ae81f0db4359bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64c312be19af8a32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10642c54b6b4ee9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a995028fe5585415",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72f52e3bf5cb26e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa1be9441e6f0930",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "520407d57ee5ce40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e780596009070f2f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2d1dc3e9d2ab9a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9917c1a048bc22c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "64c312be19af8a32",
+  "lastOpenFiles": [
+    "Sin nombre",
+    "Programacion/Programación.md",
+    "Java/Funciones Java.md",
+    "Programacion",
+    "Java/Java.md",
+    "Java",
+    "PHP",
+    "PHP/PHP.md",
+    "PHP/Funciones.md",
+    "Php/Bienvenido.md",
+    "Php/Sin título.md",
+    "Php"
+  ]
+}
