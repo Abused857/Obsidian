@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7179b9c12cb5c37b",
+        "id": "8bac62f065e8283e",
         "type": "tabs",
         "children": [
           {
-            "id": "a726a7d4649e584e",
+            "id": "05696b9a5b02c423",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programacion/PHP/Laravel/Laravel App/Tests/TESTS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "storage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programacion/PHP/Laravel/Laravel App/Tests/TESTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programacion/PHP/Laravel/Laravel App/Tests/TESTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programacion/PHP/Laravel/Laravel App/Tests/TESTS.md"
+              }
             }
           }
         ]
@@ -130,18 +139,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "64c312be19af8a32",
+  "active": "05696b9a5b02c423",
   "lastOpenFiles": [
-    "Sin nombre",
+    "Programacion/PHP/Laravel/Laravel App/Controller/Controller.md",
+    "Programacion/PHP/Laravel/docker/Imagen unidas por red virtual.md",
+    "Programacion/PHP/Laravel/docker/Push pull y ejecutar las imagenes.md",
+    "Programacion/PHP/Laravel/docker/docker Laravel.md",
+    "Programacion/PHP/Laravel/docker/Docker imagen de una app.md",
+    "Mail.md",
+    "Programacion/Python/Configuracion inicial python.md",
+    "Programacion/Python/Comenzar un projecto.md",
+    "Programacion/Python/Python.md",
+    "Programacion/PHP/Laravel/Laravel métodos recurrentes.md",
+    "Programacion/PHP/Laravel/docker",
+    "Programacion/PHP/Laravel/Laravel Instalacion&&artisan/Creacion de fichero cloud storage google Borrador sin comprobar funcionalidad.md",
     "Programacion/Programación.md",
+    "Programacion/PHP/Laravel/Laravel Instalacion&&artisan/php Artisan.md",
+    "Programacion/PHP/PHP.md",
+    "env.md",
+    "Programacion/Python/Python app",
+    "Programacion/Funciones.md",
+    "Programacion/Java/Java.md",
+    "Programacion/Java/Funciones Java.md",
+    "Programacion/Python/Python Essentials",
+    "Programacion/Python",
+    "Programacion/Untitled.md",
+    "Sin nombre",
     "Java/Funciones Java.md",
     "Programacion",
     "Java/Java.md",
