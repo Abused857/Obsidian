@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "e4c30fd66665aba1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e81c14a3ee469f8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43a183b5b18814f6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bba31340d32d8d49",
+    "type": "split",
+    "children": [
+      {
+        "id": "17f2e75b2676259c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cf6eef76ac9eca7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "816f3b8cdd4e2bd5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "06af553b37128fc6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dcc4e56a123e32cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f10b9b37e1a603a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "120c1e33ea5a7815",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python/Comenzar un projecto.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Comenzar un projecto"
+            }
+          },
+          {
+            "id": "a682173cd4ef944e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python/Comenzar un projecto.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Comenzar un projecto"
+            }
+          },
+          {
+            "id": "ff940f78ddcf5da8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "88e0dd629d97b218",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python/Comenzar un projecto.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Comenzar un projecto"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "43a183b5b18814f6",
+  "lastOpenFiles": [
+    "PHP/PHP.md",
+    "PHP/Funciones/Funciones.md",
+    "PHP/Laravel/docker/Docker en Local/Docker backend y apache.md",
+    "Python/Configuracion inicial python.md",
+    "Python/Comenzar un projecto.md",
+    "JS-JQ/JQ/Funciones JQ.md",
+    "JS-JQ/JQ/Funciones reutilizables JQ.md",
+    "JS-JQ/funciones_js_jq.md",
+    "JS-JQ/JS/Mutation Observer.md",
+    "JS-JQ/JS/Funciones_js.md",
+    "JS-JQ/JQ",
+    "JS-JQ/JS",
+    "PHP/Laravel/Laravel Instalacion&&artisan/Comandos recurrentes php artisan.md",
+    "PHP/Laravel/docker/Docker Máquina virtual/Install git en maquina virtual debian, repo bitbucket imagen de app en docker..md",
+    "PHP/Laravel/docker/Docker Máquina virtual/Instalar docker en maquina virtual debian.md",
+    "PHP/Laravel/docker/Docker en Local/Dockerfile frontend y nginx..md",
+    "PHP/Laravel/docker/Docker en Local/Docker-compose.yml local Traefik.md",
+    "JS-JQ",
+    "PHP/Laravel/Laravel Instalacion&&artisan/Laravel instalación.md",
+    "Python/Python.md",
+    "PHP/Laravel/docker/docker Laravel.md",
+    "PHP/IMGS/Pasted image 20240715083116.png",
+    "PHP/IMGS/Pasted image 20240715083135.png",
+    "PHP/IMGS/Pasted image 20240715082932.png",
+    "Kubernetes/Nginx Kubernetes/NGINX y GitHub en kubernetes.md",
+    "Kubernetes/Levantar clusters/Levantar clusters en production.md",
+    "Kubernetes/Documentación/Documentación de kubernetes.md",
+    "Java/Java.md",
+    "Java/Funciones Java.md",
+    "Python",
+    "PHP/Laravel/Laravel App/Controller/User/Controller Social Login.md",
+    "PHP/Laravel/Laravel App/Database/Seeders/Seeders database migration.md",
+    "PHP/Laravel/Laravel App/Database/Seeders",
+    "PHP/Laravel/Laravel App/Database/Migration",
+    "PHP/Laravel/Laravel App/Database/Factory",
+    "PHP/Laravel/Laravel App/Controller/User",
+    "PHP/Laravel/Laravel App/Controller/Company",
+    "PHP/Laravel/Laravel App/Tests",
+    "PHP/IMGS/Pasted image 20240715083206.png",
+    "PHP/IMGS/Pasted image 20240715083216.png",
+    "PHP/IMGS/Pasted image 20240715083157.png",
+    "PHP/IMGS/Pasted image 20240715083231.png",
+    "PHP/IMGS/Pasted image 20240715083225.png",
+    "PHP/IMGS/Pasted image 20240715083143.png",
+    "PHP/IMGS/Pasted image 20240715083124.png"
+  ]
+}
