@@ -521,4 +521,51 @@ var clon = $('#id_del_objeto').clone() $('#otra_id').append(clon)`
 ```
 ###### Ejecuta una función después de 2000 milisegundos (2 segundos).
 
+
+#### Seleccionar una opción en un select por su id y this en una funcion de select, comprobarlo respecto a un array
+
+```
+const nameSelector = $('idOfElementi);
+
+nameSelector.find(ioption:selected).text().(aqui se podría usar un toLOwertCase() por ejemplo).
+
+const phaseOrder = ['index1', 'index2', 'index3'];
+
+nameSelector.on('change', function(){
+const newSelected = $(this).find('option:selected').text();
+
+const currentPhaseIndex = phaseOrder.indexOf(nameSelector);
+const selectedPhaseIndex = phaseOrder.idexOf(newSelected);
+
+if (selectedPhaseIndex < currentPhaseIndex) {
+} else {
+}
+
+
+})
+```
+###### Selecciona la id de un elemento con opciones de select, se coje el valor que del select y se hacen las comprobaciones necesarias con el.
+
+
+#### Alert, mensaje advertencia
+
+```
+const confirm = confirm("mensaje");
+
+if (confirmChange) {
+} else {
+}
+```
+###### Mensaje de alerta  / advertencia usado para informar y que diga si o no.
+
+#### Seleccionar value de un select
+
+```
+let currentPhase = phaseSelector.val() (se podria añadir por ejemplo .toLowerCase());
+```
+###### Seleccionar el value de un combobox / select.
+
+
+
+
 [[funciones_js_jq]]

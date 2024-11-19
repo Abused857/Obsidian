@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e81c14a3ee469f8d",
+        "id": "fe215589a11e0f2b",
         "type": "tabs",
         "children": [
           {
-            "id": "43a183b5b18814f6",
+            "id": "9a23196067cb4be9",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "attr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,52 +159,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43a183b5b18814f6",
+  "active": "9a23196067cb4be9",
   "lastOpenFiles": [
-    "PHP/PHP.md",
-    "PHP/Funciones/Funciones.md",
-    "PHP/Laravel/docker/Docker en Local/Docker backend y apache.md",
-    "Python/Configuracion inicial python.md",
-    "Python/Comenzar un projecto.md",
-    "JS-JQ/JQ/Funciones JQ.md",
-    "JS-JQ/JQ/Funciones reutilizables JQ.md",
-    "JS-JQ/funciones_js_jq.md",
-    "JS-JQ/JS/Mutation Observer.md",
-    "JS-JQ/JS/Funciones_js.md",
-    "JS-JQ/JQ",
-    "JS-JQ/JS",
-    "PHP/Laravel/Laravel Instalacion&&artisan/Comandos recurrentes php artisan.md",
-    "PHP/Laravel/docker/Docker Máquina virtual/Install git en maquina virtual debian, repo bitbucket imagen de app en docker..md",
-    "PHP/Laravel/docker/Docker Máquina virtual/Instalar docker en maquina virtual debian.md",
-    "PHP/Laravel/docker/Docker en Local/Dockerfile frontend y nginx..md",
-    "PHP/Laravel/docker/Docker en Local/Docker-compose.yml local Traefik.md",
-    "JS-JQ",
-    "PHP/Laravel/Laravel Instalacion&&artisan/Laravel instalación.md",
-    "Python/Python.md",
-    "PHP/Laravel/docker/docker Laravel.md",
-    "PHP/IMGS/Pasted image 20240715083116.png",
-    "PHP/IMGS/Pasted image 20240715083135.png",
-    "PHP/IMGS/Pasted image 20240715082932.png",
-    "Kubernetes/Nginx Kubernetes/NGINX y GitHub en kubernetes.md",
-    "Kubernetes/Levantar clusters/Levantar clusters en production.md",
-    "Kubernetes/Documentación/Documentación de kubernetes.md",
-    "Java/Java.md",
-    "Java/Funciones Java.md",
-    "Python",
-    "PHP/Laravel/Laravel App/Controller/User/Controller Social Login.md",
-    "PHP/Laravel/Laravel App/Database/Seeders/Seeders database migration.md",
-    "PHP/Laravel/Laravel App/Database/Seeders",
-    "PHP/Laravel/Laravel App/Database/Migration",
-    "PHP/Laravel/Laravel App/Database/Factory",
-    "PHP/Laravel/Laravel App/Controller/User",
-    "PHP/Laravel/Laravel App/Controller/Company",
-    "PHP/Laravel/Laravel App/Tests",
-    "PHP/IMGS/Pasted image 20240715083206.png",
-    "PHP/IMGS/Pasted image 20240715083216.png",
-    "PHP/IMGS/Pasted image 20240715083157.png",
-    "PHP/IMGS/Pasted image 20240715083231.png",
-    "PHP/IMGS/Pasted image 20240715083225.png",
-    "PHP/IMGS/Pasted image 20240715083143.png",
-    "PHP/IMGS/Pasted image 20240715083124.png"
+    "Programacion/JS-JQ/JQ/Funciones JQ.md",
+    "Programacion/PHP/Laravel/docker/Docker Máquina virtual/Install git en maquina virtual debian, repo bitbucket imagen de app en docker..md",
+    "Programacion",
+    "Programacion/PHP/PHP.md",
+    "Programacion/PHP/Funciones/Funciones.md",
+    "Programacion/PHP/Laravel/docker/Docker en Local/Docker backend y apache.md",
+    "Programacion/Python/Configuracion inicial python.md",
+    "Programacion/Python/Comenzar un projecto.md",
+    "Programacion/JS-JQ/JQ/Funciones reutilizables JQ.md",
+    "Programacion/JS-JQ/funciones_js_jq.md",
+    "Programacion/JS-JQ/JS/Mutation Observer.md",
+    "Programacion/JS-JQ/JS/Funciones_js.md",
+    "Programacion/JS-JQ/JQ",
+    "Programacion/JS-JQ/JS",
+    "Programacion/PHP/Laravel/Laravel Instalacion&&artisan/Comandos recurrentes php artisan.md",
+    "Programacion/PHP/Laravel/docker/Docker Máquina virtual/Instalar docker en maquina virtual debian.md",
+    "Programacion/PHP/Laravel/docker/Docker en Local/Dockerfile frontend y nginx..md",
+    "Programacion/PHP/Laravel/docker/Docker en Local/Docker-compose.yml local Traefik.md",
+    "Programacion/JS-JQ",
+    "Programacion/PHP/Laravel/Laravel Instalacion&&artisan/Laravel instalación.md",
+    "Programacion/Python/Python.md",
+    "Programacion/PHP/Laravel/docker/docker Laravel.md",
+    "Programacion/PHP/IMGS/Pasted image 20240715083116.png",
+    "Programacion/PHP/IMGS/Pasted image 20240715083135.png",
+    "Programacion/PHP/IMGS/Pasted image 20240715082932.png",
+    "Programacion/Kubernetes/Nginx Kubernetes/NGINX y GitHub en kubernetes.md",
+    "Programacion/Kubernetes/Levantar clusters/Levantar clusters en production.md",
+    "Programacion/Kubernetes/Documentación/Documentación de kubernetes.md",
+    "Programacion/Java/Java.md",
+    "Programacion/Java/Funciones Java.md",
+    "Programacion/Python",
+    "Programacion/PHP/Laravel/Laravel App/Controller/User/Controller Social Login.md",
+    "Programacion/PHP/Laravel/Laravel App/Database/Seeders/Seeders database migration.md",
+    "Programacion/PHP/Laravel/Laravel App/Database/Seeders",
+    "Programacion/PHP/Laravel/Laravel App/Database/Migration",
+    "Programacion/PHP/Laravel/Laravel App/Database/Factory",
+    "Programacion/PHP/Laravel/Laravel App/Controller/User",
+    "Programacion/PHP/Laravel/Laravel App/Controller/Company",
+    "Programacion/PHP/IMGS/Pasted image 20240715083206.png",
+    "Programacion/PHP/IMGS/Pasted image 20240715083216.png",
+    "Programacion/PHP/IMGS/Pasted image 20240715083157.png",
+    "Programacion/PHP/IMGS/Pasted image 20240715083231.png",
+    "Programacion/PHP/IMGS/Pasted image 20240715083225.png",
+    "Programacion/PHP/IMGS/Pasted image 20240715083143.png",
+    "Programacion/PHP/IMGS/Pasted image 20240715083124.png"
   ]
 }
