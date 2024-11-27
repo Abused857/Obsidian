@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fe215589a11e0f2b",
+        "id": "331e2b2267ce18d5",
         "type": "tabs",
         "children": [
           {
-            "id": "9a23196067cb4be9",
+            "id": "c9d2a9ec76b2e015",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programacion/PHPcake/PHPCAKE.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "PHPCAKE"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "attr",
+                "query": "p",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,46 +162,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a23196067cb4be9",
+  "active": "2cf6eef76ac9eca7",
   "lastOpenFiles": [
+    "Programacion/PHPcake/Procedure man.md",
+    "Programacion/PHPcake/PHPCAKE.md",
+    "Programacion/PHPcake/Gestion Ingresos.md",
+    "Programacion/PHPcake/tablas.md",
+    "Programacion/PHPcake/ManagerRecords.md",
+    "Programacion/PHPcake/Tasacion de costas.md",
+    "Untitled",
+    "Programacion/PHPcake/añadir datos a la consulta de ajax.md",
+    "Programacion/PHPcake",
+    "Programacion/PHPcake/Debuguear.md",
     "Programacion/JS-JQ/JQ/Funciones JQ.md",
+    "Programacion/JS-JQ/JQ/Funciones reutilizables JQ.md",
+    "Programacion/Python/Configuracion inicial python.md",
+    "Programacion/Python/Comenzar un projecto.md",
+    "Programacion/PHP/Laravel/Laravel Instalacion&&artisan/php Artisan.md",
+    "Programacion/PHP/Laravel/Laravel Instalacion&&artisan/Comandos recurrentes php artisan.md",
     "Programacion/PHP/Laravel/docker/Docker Máquina virtual/Install git en maquina virtual debian, repo bitbucket imagen de app en docker..md",
     "Programacion",
     "Programacion/PHP/PHP.md",
     "Programacion/PHP/Funciones/Funciones.md",
     "Programacion/PHP/Laravel/docker/Docker en Local/Docker backend y apache.md",
-    "Programacion/Python/Configuracion inicial python.md",
-    "Programacion/Python/Comenzar un projecto.md",
-    "Programacion/JS-JQ/JQ/Funciones reutilizables JQ.md",
     "Programacion/JS-JQ/funciones_js_jq.md",
     "Programacion/JS-JQ/JS/Mutation Observer.md",
     "Programacion/JS-JQ/JS/Funciones_js.md",
     "Programacion/JS-JQ/JQ",
     "Programacion/JS-JQ/JS",
-    "Programacion/PHP/Laravel/Laravel Instalacion&&artisan/Comandos recurrentes php artisan.md",
     "Programacion/PHP/Laravel/docker/Docker Máquina virtual/Instalar docker en maquina virtual debian.md",
     "Programacion/PHP/Laravel/docker/Docker en Local/Dockerfile frontend y nginx..md",
     "Programacion/PHP/Laravel/docker/Docker en Local/Docker-compose.yml local Traefik.md",
     "Programacion/JS-JQ",
     "Programacion/PHP/Laravel/Laravel Instalacion&&artisan/Laravel instalación.md",
     "Programacion/Python/Python.md",
-    "Programacion/PHP/Laravel/docker/docker Laravel.md",
     "Programacion/PHP/IMGS/Pasted image 20240715083116.png",
     "Programacion/PHP/IMGS/Pasted image 20240715083135.png",
     "Programacion/PHP/IMGS/Pasted image 20240715082932.png",
-    "Programacion/Kubernetes/Nginx Kubernetes/NGINX y GitHub en kubernetes.md",
-    "Programacion/Kubernetes/Levantar clusters/Levantar clusters en production.md",
-    "Programacion/Kubernetes/Documentación/Documentación de kubernetes.md",
-    "Programacion/Java/Java.md",
-    "Programacion/Java/Funciones Java.md",
     "Programacion/Python",
-    "Programacion/PHP/Laravel/Laravel App/Controller/User/Controller Social Login.md",
-    "Programacion/PHP/Laravel/Laravel App/Database/Seeders/Seeders database migration.md",
     "Programacion/PHP/Laravel/Laravel App/Database/Seeders",
     "Programacion/PHP/Laravel/Laravel App/Database/Migration",
     "Programacion/PHP/Laravel/Laravel App/Database/Factory",
-    "Programacion/PHP/Laravel/Laravel App/Controller/User",
-    "Programacion/PHP/Laravel/Laravel App/Controller/Company",
     "Programacion/PHP/IMGS/Pasted image 20240715083206.png",
     "Programacion/PHP/IMGS/Pasted image 20240715083216.png",
     "Programacion/PHP/IMGS/Pasted image 20240715083157.png",

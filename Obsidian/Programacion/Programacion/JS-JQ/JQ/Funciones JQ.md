@@ -274,7 +274,10 @@ $('#id_del_objeto').css({     'color': 'red',     'font-size': '16px' })`
 #### Seleccionar todas las IDs que empiecen por un valor específico
 
 ```
-$('[id^="inicio_id"]')`
+$('[id^="inicio_id"]')
+
+$('[id^="laj_dif_' + id + '"]').attr('readonly', true).addClass('readonly-select');
+
 ```
 ###### Selecciona todos los elementos cuyo `id` comience con "inicio_id".
 
