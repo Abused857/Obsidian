@@ -75,3 +75,5 @@ Si ahora queremos instalar estas dependencias en otro entorno simplemente ejecut
 ```
 pip install -r requirements.txt
 ```
+
+[[Python]]

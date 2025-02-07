@@ -1,6 +1,6 @@
 
 Gestion ingresos ctp
-```
+```php
 <?php
 
 /**
@@ -2128,3 +2128,5 @@ Gestion ingresos ctp
     });
 </script>
 ```
+
+[[Programación]]

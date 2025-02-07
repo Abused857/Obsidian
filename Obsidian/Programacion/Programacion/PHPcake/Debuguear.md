@@ -1,6 +1,6 @@
 devolver formato json de una request para saber lo que envía / recibe PHP cake 3.3
 
-```
+```php
 $formData = $this->request->data();
 
 $this->response->type('application/json');
@@ -15,4 +15,6 @@ return $this->response;
 
                 exit;
 
-```
+``` 
+
+[[Programación]]

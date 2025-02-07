@@ -1,7 +1,7 @@
 procedure man ctp  comunicacion entre pestañas
 
 
-```
+```php
 <div class="row">
     <div class="col-md-2">
         <?php echo $this->Form->input(
@@ -1344,3 +1344,4 @@ procedure man ctp  comunicacion entre pestañas
     });
 </script>
 ```
+[[Programación]]
