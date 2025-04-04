@@ -1,5 +1,5 @@
 
-![[UserLogout.pdf]]
+![[UserLogout 1.pdf]]
 
  public function logout(Request $request)
 

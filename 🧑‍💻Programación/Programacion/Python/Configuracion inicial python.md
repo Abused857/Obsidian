@@ -236,7 +236,7 @@ correr migraciones en python
 
 alembic upgrade head
 
-[[Python]]
+[[Programacion/Python/Python]]
 
 
 

@@ -1,5 +1,5 @@
 
-![[UserRememberToken.pdf]] 
+![[UserRememberToken 1.pdf]] 
   
 
     public function RememberToken(Request $request)

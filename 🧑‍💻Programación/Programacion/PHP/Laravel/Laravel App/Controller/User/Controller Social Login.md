@@ -1,4 +1,4 @@
-![[UserSocialLogin.pdf]]
+![[UserSocialLogin 1.pdf]]
 
 
  public function loginSocial(Request $request)

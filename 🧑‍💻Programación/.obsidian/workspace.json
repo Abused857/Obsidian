@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8bac62f065e8283e",
+        "id": "35666369c552c9ce",
         "type": "tabs",
         "children": [
           {
-            "id": "05696b9a5b02c423",
+            "id": "7d5d28e1036d14cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programacion/PHP/Laravel/Laravel App/Tests/TESTS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -38,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +49,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "storage",
+                "query": "php artisan serve",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,11 +65,12 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +98,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TESTS"
             }
           },
           {
@@ -106,7 +112,9 @@
                 "file": "Programacion/PHP/Laravel/Laravel App/Tests/TESTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TESTS"
             }
           },
           {
@@ -117,7 +125,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -127,7 +137,9 @@
               "type": "outline",
               "state": {
                 "file": "Programacion/PHP/Laravel/Laravel App/Tests/TESTS.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TESTS"
             }
           }
         ]
@@ -147,41 +159,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05696b9a5b02c423",
+  "active": "7d5d28e1036d14cb",
   "lastOpenFiles": [
-    "Programacion/PHP/Laravel/Laravel App/Controller/Controller.md",
-    "Programacion/PHP/Laravel/docker/Imagen unidas por red virtual.md",
+    "Programacion/PHP/Funciones/Funciones.md",
+    "Comandos Angular.md",
     "Programacion/PHP/Laravel/docker/Push pull y ejecutar las imagenes.md",
+    "Programacion/PHP/Laravel/docker/Docker en Local/Dockerfile frontend y nginx..md",
+    "Programacion/PHP/Laravel/docker/Docker en Local/Docker backend y apache.md",
+    "Programacion/PHP/Laravel/docker/Docker Máquina virtual/Install git en maquina virtual debian, repo bitbucket imagen de app en docker..md",
+    "Programacion/PHP/Laravel/docker/Docker Máquina virtual/Instalar docker en maquina virtual debian.md",
+    "Programacion/PHP/Laravel/docker/Imagen unidas por red virtual.md",
     "Programacion/PHP/Laravel/docker/docker Laravel.md",
     "Programacion/PHP/Laravel/docker/Docker imagen de una app.md",
-    "Mail.md",
-    "Programacion/Python/Configuracion inicial python.md",
-    "Programacion/Python/Comenzar un projecto.md",
-    "Programacion/Python/Python.md",
-    "Programacion/PHP/Laravel/Laravel métodos recurrentes.md",
-    "Programacion/PHP/Laravel/docker",
-    "Programacion/PHP/Laravel/Laravel Instalacion&&artisan/Creacion de fichero cloud storage google Borrador sin comprobar funcionalidad.md",
-    "Programacion/Programación.md",
-    "Programacion/PHP/Laravel/Laravel Instalacion&&artisan/php Artisan.md",
-    "Programacion/PHP/PHP.md",
-    "env.md",
-    "Programacion/Python/Python app",
-    "Programacion/Funciones.md",
-    "Programacion/Java/Java.md",
-    "Programacion/Java/Funciones Java.md",
-    "Programacion/Python/Python Essentials",
-    "Programacion/Python",
-    "Programacion/Untitled.md",
-    "Sin nombre",
-    "Java/Funciones Java.md",
-    "Programacion",
-    "Java/Java.md",
-    "Java",
-    "PHP",
-    "PHP/PHP.md",
-    "PHP/Funciones.md",
-    "Php/Bienvenido.md",
-    "Php/Sin título.md",
-    "Php"
+    "PHP/Laravel/docker/docker Laravel.md",
+    "Programacion/PHP/Laravel/docker/Docker en Local/Docker-compose.yml local Traefik.md",
+    "Programacion/Python 1/Configuracion inicial python.md",
+    "Programacion/Python 1/Python.md",
+    "Programacion/Python 1/Comenzar un projecto.md",
+    "Programacion/Python 1",
+    "PHP/Laravel/Laravel App/Controller/User/Controller User Remember Token.md",
+    "PHP/Laravel/Laravel App/Controller/User/Controller User Refresh Token.md",
+    "PHP/Laravel/Laravel App/Controller/User/Controller User Profile.md",
+    "PHP/Laravel/Laravel App/Controller/User/Controller Social Login.md",
+    "PHP/Laravel/Laravel App/Controller/User/Controller User Logout.md",
+    "PHP/Laravel/Laravel App/Database/Migration/Migrations-tablas.md",
+    "PHP/Laravel/Laravel App/Controller/Company/Controller compañia.md",
+    "PHP/Laravel/Laravel App/Database/Seeders/Seeders database migration.md",
+    "PHP/Laravel/Laravel App/Database/Factory/Factory.md",
+    "PHP/Laravel/Laravel App/Controller/Validator Guide.md",
+    "PHP/Laravel/Laravel App/Tests/TESTS.md",
+    "PHP/Laravel/Laravel App/Controller/User",
+    "PHP/Laravel/Laravel App/Database/Migration",
+    "PHP/Laravel/Laravel App/Controller/Company",
+    "PHP/Laravel/Laravel App/Database/Seeders",
+    "PHP/Laravel/Laravel App/Database/Factory",
+    "PHP/Laravel/Laravel App/Tests",
+    "PHP/Laravel/Laravel App/Routes",
+    "PHP/Laravel/Laravel App/Socialite",
+    "PHP/Laravel/Laravel App/Models",
+    "PHP/IMGS/Pasted image 20240715083225.png",
+    "PHP/IMGS/Pasted image 20240715083231.png",
+    "PHP/IMGS/Pasted image 20240715083216.png",
+    "PHP/IMGS/Pasted image 20240715083206.png",
+    "PHP/IMGS/Pasted image 20240715083143.png",
+    "PHP/IMGS/Pasted image 20240715083157.png",
+    "PHP/IMGS/Pasted image 20240715083135.png",
+    "PHP/IMGS/Pasted image 20240715083124.png",
+    "PHP/IMGS/Pasted image 20240715083107.png",
+    "PHP/IMGS/Pasted image 20240715083056.png"
   ]
 }
