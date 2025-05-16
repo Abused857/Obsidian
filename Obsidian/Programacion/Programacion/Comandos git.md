@@ -15,3 +15,12 @@ git remote set-url origin https://gmCagigas88@bitbucket.org/incentro-cloud/cargo
 
 ```
 
+
+eliminar el ultimo commit 
+```git
+
+git reset --hard HEAD~1  
+git push origin HEAD --force
+
+```
+
