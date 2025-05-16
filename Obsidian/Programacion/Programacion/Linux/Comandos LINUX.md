@@ -4,7 +4,29 @@
 ## 📁 Gestión de Archivos y Directorios
 
 ---
+### `df -h`
 
+🔍 **Palabras clave**: espacio disco, particiones, uso disco, tamaño  
+🛠️ **Qué hace**: Muestra el uso del disco por sistema de archivos en formato legible (GB/MB).  
+📌 **Ejemplo usado**:
+
+```bash
+df -h
+```
+
+📌 **Explicación columnas**:
+
+- `Filesystem`: nombre del dispositivo o punto de montaje
+    
+- `Size`: tamaño total
+    
+- `Used`: espacio usado
+    
+- `Avail`: espacio disponible
+    
+- `Use%`: porcentaje en uso
+    
+- `Mounted on`: punto de montaje
 ### `ls -la`
 
 🔍 **Palabras clave**: listar, archivos ocultos, permisos  
@@ -55,7 +77,7 @@ rm -rf 250400005 250400006 250400007 ... 250400224
 📌 **Ejemplo**:
 
 ```bash
-sudo rm -f 250500001
+sudo rm -f 250500001.pdf
 ```
 
 ### `cd <ruta>`
