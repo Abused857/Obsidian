@@ -90,6 +90,43 @@ sudo rm -f 250500001.pdf
 cd /var/www/html/storage/RecordDocuments
 ```
 
+
+### `tail -f`
+
+🔍 **Palabras clave**: logs, monitoreo en vivo, ver últimos registros  
+🛠️ **Qué hace**: Muestra las últimas líneas de un archivo y sigue mostrando en tiempo real lo que se agrega. Ideal para observar archivos de log mientras un proceso está en ejecución.  
+📌 **Ejemplo típico**:
+
+
+```bash
+tail -f logs/error.log
+```
+📌 **Explicación**:
+
+- `tail`: muestra las últimas líneas de un archivo (por defecto, las últimas 10).
+    
+- `-f`: **"follow"** — mantiene la vista abierta y actualiza cuando se agregan nuevas líneas.
+    
+
+📌 **Uso habitual**:
+
+- Monitorear errores de Apache, PHP o cualquier otro servicio en tiempo real.
+    
+- Diagnóstico de procesos o cron jobs.
+    
+
+📌 **Variaciones útiles**:
+
+
+```bash
+tail -n 50 logs/error.log     # Muestra las últimas 50 líneas
+tail -f /var/log/syslog       # Sigue el log del sistema
+
+```
+
+📌 **Salida esperada**:  
+Verás las últimas líneas del archivo e irán apareciendo nuevas automáticamente al final, como si fuera un "streaming" de texto.
+
 ## 🧠 Monitorización del sistema
 
 ---

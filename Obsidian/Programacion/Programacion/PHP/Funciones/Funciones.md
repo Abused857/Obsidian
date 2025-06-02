@@ -119,4 +119,75 @@ class BinarySearchService
 
 **Palabras clave**: PHP, búsqueda binaria, algoritmo de búsqueda, eficiencia, markdown, Obsidian. 
 
+
+## 🧾 Laravel – Fechas y zonas horarias en respuestas JSON
+
+### ✅ Opción 1: Usar la zona horaria global de Laravel (`config/app.php`)
+
+Si Laravel está configurado con la zona horaria deseada (por ejemplo, `Europe/Madrid`), entonces puedes usar directamente:
+
+php
+
+CopiarEditar
+
+`$expired_at->toDateTimeString()`
+
+**No necesitas hacer ningún ajuste manual** de zona horaria, porque `Carbon` usará automáticamente la zona definida globalmente en `config/app.php`:
+
+php
+
+CopiarEditar
+
+`'timezone' => 'Europe/Madrid',`
+
+APP_TIMEZONE=Europe/Madrid
+
+#### Ejemplo:
+
+php
+
+CopiarEditar
+
+`$expired_at = Carbon::now()->addMinutes(30);  $formatted = $expired_at->toDateTimeString(); // ya en horario de Madrid`
+
+---
+
+### 🕘 Opción 2: Forzar una zona horaria manualmente
+
+Si quieres devolver una fecha ajustada a una zona horaria específica sin depender de la configuración global de Laravel, puedes usar `setTimezone()` de Carbon:
+
+php
+
+CopiarEditar
+
+`$expired_at->copy()->setTimezone('Europe/Madrid')->toDateTimeString()`
+
+Esto es útil si:
+
+- Tu app usa UTC internamente.
+    
+- Necesitas mostrar fechas en distintas zonas horarias por usuario.
+    
+- No puedes cambiar `config/app.php`.
+    
+
+#### Ejemplo:
+
+php
+
+CopiarEditar
+
+`$expired_at = Carbon::now()->addMinutes(30);  // Formato ajustado manualmente a horario de Madrid $formatted = $expired_at->copy()->setTimezone('Europe/Madrid')->toDateTimeString();`
+
+---
+
+### 🧠 Recomendación
+
+Usa la **zona horaria global** (`config/app.php`) si toda tu aplicación trabaja con la misma región.
+
+Usa **`setTimezone()`** si necesitas flexibilidad para convertir fechas a distintas zonas en tiempo de ejecución (multiusuario internacional, reportes, etc.).
+
+
+
+
 [[PHP]] 
